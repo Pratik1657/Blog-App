@@ -25,7 +25,7 @@ public class CategoryController {
     @Autowired
     private CategoryServ categoryServ;
     
-    // Create
+    // Creat
     @PostMapping("/")
     public ResponseEntity<CategoryDTO> createCategory(@RequestBody CategoryDTO categoryDTO) {
         CategoryDTO createCategory = this.categoryServ.createCategory(categoryDTO);
