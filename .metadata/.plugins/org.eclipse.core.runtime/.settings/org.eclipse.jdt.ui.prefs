@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="com.blog.payload.UserDTO"><rhs name\="com.blog.payload.UserDTO"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="com.blog.payload.ApiResponse"><rhs name\="com.blog.payload.ApiResponse"/></lhs><lhs name\="org.modelmapper.ModelMapper"><rhs name\="org.modelmapper.ModelMapper"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="org.springframework.http.HttpStatusCode"><rhs name\="org.springframework.http.HttpStatus"/></lhs></history>
+content_assist_number_of_computers=18
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
